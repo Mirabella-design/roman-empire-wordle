@@ -1,13 +1,15 @@
 export default {
-    localeIdentifier: "en_US", // Locale code changed to "en" for English (US)
-    documentTitle: "English Wordle: Guess the English Word", // Document title translated
-    writtenName: "English Wordle", // Written name translated
+    localeIdentifier: "el_GR", // Locale code changed to "en" for English (US)
+    documentTitle: "Greek Wordle: Guess the Greek Word", // Document title translated
+    writtenName: "Attic Greek Wordle", // Written name translated
     charSet: [
-        'a', 'b', 'c', 'd', 'e', 'f',
-        'g', 'h', 'i', 'j', 'k', 'l',
-        'm', 'n', 'o', 'p', 'q', 'r',
-        's', 't', 'u', 'v', 'w', 'x',
-        'y', 'z'
+        'Α', 'Β', 'Γ', 'Δ', 'Ε', 'Ζ',
+        'Η', 'Θ', 'Ι', 'Κ', 'Λ', 'Μ',
+        'Ν', 'Ξ', 'Ο', 'Π', 'Ρ', 'Σ',
+        'Τ', 'Υ', 'Φ', 'Χ', 'Ψ', 'Ω'
+    
+        
+        
     ], // Character set remains the same
     langConvertMaps: {},
     wordMeaningQueryAPIURL: null,

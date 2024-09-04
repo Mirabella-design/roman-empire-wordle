@@ -1,13 +1,13 @@
 export default {
     localeIdentifier: "en_US", // Locale code changed to "en" for English (US)
-    documentTitle: "English Wordle: Guess the English Word", // Document title translated
-    writtenName: "English Wordle", // Written name translated
+    documentTitle: "Hebrew Wordle: Guess the Hebrew Word", // Document title translated
+    writtenName: "Hebrew Wordle", // Written name translated
     charSet: [
-        'a', 'b', 'c', 'd', 'e', 'f',
-        'g', 'h', 'i', 'j', 'k', 'l',
-        'm', 'n', 'o', 'p', 'q', 'r',
-        's', 't', 'u', 'v', 'w', 'x',
-        'y', 'z'
+        'א', 'ב', 'ג', 'ד', 'ה', 'ו',
+        'ז', 'ח', 'ט', 'י', 'כ', 'ך',
+        'ל', 'מ', 'ם', 'נ', 'ן', 'ס',
+        'צ', 'פ', 'ף', 'ץ', 'ק', 'ר',
+        'ש', 'ת'
     ], // Character set remains the same
     langConvertMaps: {},
     wordMeaningQueryAPIURL: null,

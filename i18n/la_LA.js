@@ -1,7 +1,7 @@
 export default {
     localeIdentifier: "en_US", // Locale code changed to "en" for English (US)
     documentTitle: "English Wordle: Guess the English Word", // Document title translated
-    writtenName: "English Wordle", // Written name translated
+    writtenName: "Latin Wordle", // Written name translated
     charSet: [
         'a', 'b', 'c', 'd', 'e', 'f',
         'g', 'h', 'i', 'j', 'k', 'l',

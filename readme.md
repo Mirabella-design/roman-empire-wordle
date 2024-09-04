@@ -1,3 +1,32 @@
+# Roman Empire Wordle
+
+Some people have a vision board. I have a map of the Roman Empire. So here’s an interesting question: given that Latin was the lingua Franca of the day, a large portion of Romans were bi-lingual. But given that there were TWO dominant administrative languages (Latin and Greek), and that languages differed by region and tribe (the people of the next town might very well speak a different dialect or an entirely different language), how many people of the Roman Empire circa 150 A.D. were tri-lingual? Or Quad-lingual?
+
+That’s a question I want to know more about.
+
+I’ve forked Çağlar ORHAN's Turkish Wordle Game (all of his information follows this readme), changed the language selector, added 5 large vocabulary lists and 2 smaller ones, and customized the keyboards for the ancient languages. The hardest part of this project was getting decent vocabulary lists and preparing them as data sources. Greek and Latin had the most resources available, but there was very little for the rest of the languages.
+
+Languages so far:
+Attic Greek, 
+Coptic, 
+Gaulish, 
+Hebrew, 
+Cisalpine Celtic, 
+Aramaic 
+
+I’m working on adding as many others as I can. It would be pretty cool to have the complete set of languages spoken in the Roman Empire circa 150 A.D. as a Wordle set. (Though I agree without you even having to say it — a very limited audience would play the game. But you also have to admit, while small, the coolest group of people on earth.)
+
+Next steps:
+
+Add languages: Celtic, Syriac, Punic, Iberian, and Etruscan (the most likely to have resources available)
+
+Add hints in English and maybe other languages, as guessing through languages other than Greek, Latin, Coptic, and Hebrew might be too much of a leap.
+
+
+
+
+
+
 # Turkish Wordle - A Word Guess Game
 **[Türkçe Wordle](https://caglarorhan.github.io/turkcewordle/) - Bir Türkçe Kelime Tahmin Oyunu**
 

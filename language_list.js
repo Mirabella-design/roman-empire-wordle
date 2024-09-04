@@ -1,6 +1,10 @@
 export const  languages = [
-    {localeCode: "tr_TR", name:"Türkçe"},
-    {localeCode: "en_US", name:"English"},
-    {localeCode: "de_DE", name:"Deutsch"},
-    {localeCode: "es_ES", name:"Español"},
+    
+    {localeCode: "el_GR", name:"Attic Greek"},
+    {localeCode: "la_LA", name:"Latin"},
+    {localeCode: "cop", name:"Coptic Egyptian"},
+    {localeCode: "xcg", name:"Cisalpine Celtic"},
+    {localeCode: "xtg", name:"Gaulish"}, 
+    {localeCode: "heb", name:"Hebrew"},
+    {localeCode: "arc", name:"Aramaic"},
 ]

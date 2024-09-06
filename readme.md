@@ -1,6 +1,6 @@
 # Roman Empire Wordle
 
-Some people have a vision board. I have a map of the Roman Empire. So here’s an interesting question: given that Latin was the lingua Franca of the day, a large portion of Romans were bi-lingual. But given that there were TWO dominant administrative languages (Latin and Greek), and that languages differed by region and tribe (the people of the next town might very well speak a different dialect or an entirely different language), how many people of the Roman Empire circa 150 A.D. were tri-lingual? Or Quad-lingual?
+So here’s an interesting question: given that Latin was the lingua Franca of the day, a large portion of Romans were bi-lingual. But given that there were TWO dominant administrative languages (Latin and Greek), and that languages differed by region and tribe (the people of the next town might very well speak a different dialect or an entirely different language), how many people of the Roman Empire circa 150 A.D. were tri-lingual? Or Quad-lingual?
 
 That’s a question I want to know more about.
 

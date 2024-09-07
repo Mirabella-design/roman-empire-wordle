@@ -19,7 +19,7 @@ export default {
             "letters to guess!", // Toast messages translated
             "Congratulations! You found the hidden word!",
             "This word is not found in the dictionary!",
-            "No messages found!",
+            "No messages found",
         ],
         infoBoxMessages: [ // Info box messages translated
             "correct letter, correct position",
